@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ironman-C</string>
+    <string name="todo">todo</string>
+    <string name="iron_mann">ironman</string>
+    <string name="suit_yourselff">suit_yourself</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">Don\'t Have an Account?</string>
+    <string name="sign_up">Sign UP</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="logo">TODO</string>
+    <string name="email">Email</string>
+</resources>
